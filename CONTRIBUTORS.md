@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mayank Painkra](https://github.com/Skelptin)
+- Place: Chhattisgarh, India
+- Bio: Web developer MERN Stack
+- Github: [Skelptin](https://github.com/Skelptin)
